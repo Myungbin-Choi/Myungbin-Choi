@@ -8,12 +8,14 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
+  ## About This Repository
+  This repository contains various projects that showcase my skills and experiments in Data Analytics
+  
+  ### What's Inside:
+  - project 1: 
+  - project 2:
+  - project 3:
+
   
   ## 🧱 Tech Stack
   ### Language
