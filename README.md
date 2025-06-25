@@ -12,12 +12,12 @@
   This repository contains various projects that showcase my skills and experiments in Data Analytics
   
   ### What's Inside:
-  - project 1: 
-  - project 2:
-  - project 3:
+  - project 1: recruitment-platform-funnel-project (채용플랫폼 유저 이탈 개선 프로젝트)
+  - project 2: HR-profiling-project (고성과자 프로파일링 프로젝트)
+  - project 3: coworking-space-project (공유오피스 예측 모델링 프로젝트)
 
   
-  ## 🧱 Tech Stack
+  ## Tools & Techologies
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
