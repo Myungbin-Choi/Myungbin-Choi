@@ -15,7 +15,7 @@
   - project 1: recruitment-platform-funnel-project (채용플랫폼 유저 이탈 개선 프로젝트)
   - project 2: HR-profiling-project (고성과자 프로파일링 프로젝트)
   - project 3: coworking-space-project (공유오피스 예측 모델링 프로젝트)
-
+  - project 4 : SNS-activation-project (SNS 활성화를 위한 클러스터 분석 프로젝트)
   
   ## Tech stack & Tool
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
